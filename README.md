@@ -1,5 +1,5 @@
-# MMVMoneyManager
-## 4 lazy, buzy people know how much money spent for a month
-## let's they own and enjoy their life
-## child also can use to learn MM
-## top of simple is top of erudition
+# MMVMoneyManager!
+## For lazy, buzy people know how much money spent for a month!
+## Let they own and enjoy their life!
+## Child also can use to learn MM!
+## Top of simplicity is top of erudition!
